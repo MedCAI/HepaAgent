@@ -8,7 +8,7 @@ HepaAgent reframes whole-slide interpretation as an autonomous multiscale reason
 
 ## 🖼️ System Overview
 
-![HepaAgent Overview](overview.png)
+
 *Figure 1: Overview of the HepaAgent framework, illustrating the hierarchical reasoning process and the agentic workflow for HCC diagnostic interpretation.*
 
 ---
