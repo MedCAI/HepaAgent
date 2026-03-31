@@ -51,23 +51,11 @@ HepaAgent consistently outperforms leading models (including GPT-4V, Qwen-VL-Plu
 ## 🙏 Acknowledgements
 
 We would like to express our sincere gratitude to the developers and communities of the following foundational models and frameworks, which were instrumental in the development of HepaAgent:
-* **TRIDENT**: For its advanced architectural support.
+* **TRIDENT**: For its advanced data process support.
 * **UNI**: For providing robust vision foundational capabilities.
-* **MUSK**: For its contributions to multi-scale feature representation.
+* **MUSK**: For its contributions image-text alignment.
 
 ## ✉️ Contact
 
 For any inquiries or discussions regarding the project, please contact:
 * **Linghan Cai**: cailh@stu.hit.edu.cn
-
-## 📑 Citation
-
-If you find this work helpful in your research, please cite our paper:
-
-```bibtex
-@article{cai2026hepaagent,
-  title={HepaAgent: An explainable and standardized whole-slide pathology image analysis agentic system for hepatocellular carcinoma},
-  author={Cai, Linghan and others},
-  journal={Preprint},
-  year={2026}
-}
