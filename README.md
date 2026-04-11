@@ -62,7 +62,8 @@ HepaAgent consistently outperforms leading models (including GPT-4V, Qwen-VL-Plu
 We would like to express our sincere gratitude to the developers and communities of the following foundational models and frameworks, which were instrumental in the development of HepaAgent:
 * **TRIDENT**: For its advanced data process support.
 * **UNI**: For providing robust vision foundational capabilities.
-* **MUSK**: For its contributions image-text alignment.
+* **MUSK**: For its contributions of image-text alignment.
+* **SurvAgent**: For its contributions of patch filtering.
 
 ## ✉️ Contact
 
