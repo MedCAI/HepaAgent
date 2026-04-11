@@ -1,6 +1,7 @@
-# HepaAgent: An Explainable and Standardized Agentic System for HCC Pathology Analysis
+# HepaAgent: An Explainable and Standardized Agentic System for Liver Pathology
 
 Official implementation of **HepaAgent**, an explainable agentic framework designed for the diagnostic interpretation of hepatocellular carcinoma (HCC) whole-slide images (WSIs). 
+**For Reviewers**: The complete implementation code is currently provided as **`hepa_agent_code_en.zip`** within the **Supplementary Materials** of our submission.
 
 HepaAgent reframes whole-slide interpretation as an autonomous multiscale reasoning workflow, bridging the gap between visual perception and clinical logic.
 
