@@ -43,6 +43,13 @@ HepaAgent consistently outperforms leading models (including GPT-4V, Qwen-VL-Plu
 
 ---
 
+## 🖼️ Web Application
+
+![Web Application of HepaAgent](web_application.png)
+*Figure 1: Application of the HepaAgent.*
+
+---
+
 ## 📂 Repository Status & Open Source Plan
 
 > [!IMPORTANT]
