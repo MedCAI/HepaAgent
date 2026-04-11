@@ -2,7 +2,7 @@
 
 Official implementation of **HepaAgent**, an explainable agentic framework designed for the diagnostic interpretation of hepatocellular carcinoma (HCC) whole-slide images (WSIs). 
 
-**For Reviewers**: The complete implementation code is currently provided as **`hepa_agent_code_en.zip`** within the **Supplementary Materials** of our submission.
+**For Reviewers**: The complete implementation code is currently provided as **`hepa_agent_code_en.zip`** within the **Supplementary Materials** of our submission. The application web can be found at https://hepaagent.xmkj.cn/ for quick usage.
 
 HepaAgent reframes whole-slide interpretation as an autonomous multiscale reasoning workflow, bridging the gap between visual perception and clinical logic.
 
@@ -48,7 +48,7 @@ HepaAgent consistently outperforms leading models (including GPT-4V, Qwen-VL-Plu
 > [!IMPORTANT]
 > **Open Source Notice**: The full source code, model weights, and datasets for HepaAgent will be officially released to the public upon the formal acceptance of our research paper. 
 > 
-> **For Reviewers**: The complete implementation code is currently provided as **`code.zip`** within the **Supplementary Materials** of our submission.
+> **For Reviewers**: The complete implementation code is currently provided as **`code.zip`** within the **Supplementary Materials** of our submission. The application web can be found at [puzzlelogic](https://hepaagent.xmkj.cn/) for quick usage.
 
 ## 🙏 Acknowledgements
 
