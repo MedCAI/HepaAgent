@@ -39,7 +39,7 @@ HepaAgent has been rigorously evaluated on multiple datasets:
 * **TCGA-LIHC**: Publicly available cohort for external validation.
 * **cHCC-CCA Benchmark**: Specialized evaluation for rare histological variants.
 
-HepaAgent consistently outperforms leading models (including GPT-4V, Qwen-VL-Plus, and SlideChat) across all diagnostic categories.
+HepaAgent consistently outperforms leading models (including GPT-5, Qwen-VL-Plus, and SlideChat) across all diagnostic categories.
 
 ---
 
